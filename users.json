@@ -1,0 +1,47 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "mypassword",
+    "id": "6f6314d1"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "mypassword1",
+    "id": "795f3a90"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "a0a4f2788159278d26e287ff9b429a91de0a69e776a8837186e335fb09863e40c40a44493aeefb24294e3911b9722d7c678445428245ad9edfa2067faeee0198.d52334b75bc4aede",
+    "id": "dda21bc3"
+  },
+  {
+    "email": "test4@test.com",
+    "password": "111786e7853934a426fced557f65d37030e63f9a92ec66e6a5d8bb93205df348142e718c94a4496c22dc74bda3116e3bf2bb443c129f1d7885287826f79a6560.29e765ee33a1f974",
+    "id": "b7dd1edc"
+  },
+  {
+    "email": "test@test.com",
+    "password": "b556396f35a616f2fa87008c7fb2f80b7cfbb6230fd4a51431b2a78f20990daf02d4b80d11c626b22e90ecd6a116575b86aa37037b9b37d4f5ad4cf9b3ef4ab9.086e25c6ffd9a8c0",
+    "id": "98333934"
+  },
+  {
+    "email": "test7@test.com",
+    "password": "d724ab16110d71da4fdaec43822bcdccbff53a372580b20a25574115d61056ac9ac661181347ab120ce99b5a9570e3d4ff1926e623c80add66653e4f1c5d3ed8.5aadb2f682fcb041",
+    "id": "83a60554"
+  },
+  {
+    "email": "test7@test.com",
+    "password": "e610f2663606be8413266873ab7e89c2c30b77cb97face6ae7835570f190b4b5695c2489ec5988e934f29c3b4ebc0229a0d5e6a7a5ca704ff8a88ee76fa96c77.241f4cc2ea8f2291",
+    "id": "be35f339"
+  },
+  {
+    "email": "mamalia@test.com",
+    "password": "2095db965ec0e6674400d8cf0d53cebe3d73f0229b3dffac1ea2837b4f69bfaa474b14cd4fdd7d005a9a4ea675361122993e728422521e5a633905fe022e6236.62245ddd8d679f89",
+    "id": "96682d59"
+  },
+  {
+    "email": "gogomelo@test.com",
+    "password": "bb301291032600fce5edfc0684b31c31a2e1bd4b83646385c1d645ab5fe39920aa0ec49b46d29ddad9a0bfad772ff987114b919698e873bf9054923b27b55d9e.95d06b605ff8b6f5",
+    "id": "1a962211"
+  }
+]
